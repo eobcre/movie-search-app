@@ -37,12 +37,15 @@ small {
   font-size: 1.1rem;
   border: none;
   border-radius: 6px;
-  padding: 0.3rem;
   outline: none;
+  margin-top: 1rem;
+  padding: 0.3rem;
+  width: 300px;
 }
 
 .app-icon {
   position: absolute;
+  top: 1rem;
   margin-left: 0.6rem;
   color: #ffffff;
   font-size: 1.8rem;
