@@ -24,10 +24,25 @@ small {
   align-items: center;
 }
 
+.app-img {
+  margin: 1rem;
+}
+
+.app-search {
+  position: relative;
+}
+
 .app-input {
   font-size: 1.1rem;
   border: none;
   border-radius: 6px;
   padding: 0.3rem;
   outline: none;
+}
+
+.app-icon {
+  position: absolute;
+  margin-left: 0.6rem;
+  color: #ffffff;
+  font-size: 1.8rem;
 }
