@@ -12,7 +12,7 @@ input {
   outline: none;
 }
 
-.app-container {
+.app-form {
   display: flex;
   flex-direction: column;
   justify-content: center;
