@@ -1,6 +1,6 @@
 const SearchBar = () => {
   return (
-    <div className='app-container'>
+    <form className='app-form'>
       <h2>Movie Search App</h2>
       <div>
         <label>
@@ -8,7 +8,7 @@ const SearchBar = () => {
           <button>Search</button>
         </label>
       </div>
-    </div>
+    </form>
   );
 };
 
