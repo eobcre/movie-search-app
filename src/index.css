@@ -43,6 +43,10 @@ small {
   width: 300px;
 }
 
+.app-button {
+  border: none;
+}
+
 .app-icon {
   position: absolute;
   top: 1rem;
