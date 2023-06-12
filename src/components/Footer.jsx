@@ -1,5 +1,9 @@
 const Footer = () => {
-  return <div></div>;
+  return (
+    <div>
+      <small>&copy; Emmy Manning</small>
+    </div>
+  );
 };
 
 export default Footer;
