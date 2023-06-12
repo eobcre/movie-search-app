@@ -5,8 +5,10 @@ const App = () => {
     <div className='app-container'>
       <h2>Movie Search App</h2>
       <div>
-        <input type='text' />
-        <button>Search</button>
+        <label>
+          <input type='text' />
+          <button>Search</button>
+        </label>
       </div>
       <Footer />
     </div>
